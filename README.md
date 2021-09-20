@@ -9,7 +9,7 @@
 * Docker
 
 ## Como utilizar
-Para levantar container com a aplicação:
+Para levantar containers com a aplicação:
 
     $ git clone https://github.com/ishida-ricardo/potencial-crud.git <sua-pasta>
     $ cd <sua-pasta> && docker-compose up --build -d
