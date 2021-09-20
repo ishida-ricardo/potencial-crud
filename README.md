@@ -11,7 +11,7 @@
 ## Como utilizar
 Para levantar container com a aplicação:
 
-    $ git clone <este repositorio> <sua-pasta>
+    $ git clone https://github.com/ishida-ricardo/potencial-crud.git <sua-pasta>
     $ cd <sua-pasta> && docker-compose up --build -d
     $ docker-compose exec backend sh -c "composer install && php artisan migrate"
 
