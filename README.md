@@ -18,7 +18,7 @@ Para levantar container com a aplicação:
 
 Este procedimento irá disponibilizar a aplicação nos seguintes endereços:
 
-* api: http://localhost:8000/
+* api: http://localhost:8000/api
 * frontend: http://localhost:3000/
 
 Para executar os testes automatizados:
